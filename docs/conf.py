@@ -7,9 +7,16 @@ author = 'Your Name'
 release = '0.1.0'
 
 extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.napoleon',
-    'sphinx.ext.viewcode',
+    "sphinx.ext.autodoc",
+    "sphinx.ext.autosummary",
+    "sphinx.ext.coverage",
+    "sphinx.ext.doctest",
+    "sphinx.ext.extlinks",
+    "sphinx.ext.ifconfig",
+    "sphinx.ext.napoleon",
+    "sphinx.ext.todo",
+    "sphinx.ext.imgmath",
+    "sphinx.ext.viewcode",
 ]
 
 templates_path = ['_templates']
