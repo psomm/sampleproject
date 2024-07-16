@@ -6,7 +6,7 @@ This is a list of modules or functions to create an API docu.
    :maxdepth: 2
    :caption: Contents:
 
-.. automodule:: src.sample
+.. automodule:: src.sample.simple
    :members:
    :undoc-members:
    :show-inheritance:
