@@ -16,4 +16,7 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 html_theme = 'alabaster'
+html_sidebars = {
+    "**": ["searchbox.html", "globaltoc.html", "sourcelink.html"],
+}
 html_static_path = ['_static']
