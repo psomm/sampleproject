@@ -5,7 +5,7 @@ Modules
    :maxdepth: 2
    :caption: Contents:
 
-.. automodule:: simple
+.. automodule:: src.sample.simple
    :members:
    :undoc-members:
    :show-inheritance:
